@@ -1,3 +1,4 @@
 .idea/
-JavaToolRepository.iml
+*.iml
 target/
+src/test/
