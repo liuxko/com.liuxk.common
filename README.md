@@ -8,7 +8,7 @@
     <repositories>
     <repository>
         <id>maven-repo-master</id>
-        <url>https://raw.github.com/liuxko/com.liuxk.common/maven-repo/</url>
+        <url>https://raw.github.com/liuxko/com.liuxk.common/mvn-repo/</url>
         <snapshots>
             <enabled>true</enabled>
             <updatePolicy>always</updatePolicy>
